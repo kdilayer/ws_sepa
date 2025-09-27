@@ -1,6 +1,8 @@
 **ws_sepa**
 
-A tool that integrates into banking systems via web services API.
+A tool that integrates into banking systems via web services API. 
+This tool will send and receive files from a bank using the web services API. 
+For generating and processing SEPA XML files see https://github.com/kdilayer/sepa2odoo
 
 This tool currently supports Samlink banks, small changes to be done to support OP, Nordea and DanskeBank.
 
