@@ -62,7 +62,7 @@ Configuration:
                 "type": "XL"
             }
         ],
-        "output_folder": "./working_folder",  <- the root folder of working files
+        "output_folder": "/var/lib/ws_sepa",  <- the root folder of working files
         "signing_private_key": "private key", <- base 64 encoded private key
         "own_signing_certificate": "cert",      <- base 64 encoded certificate
         "bank_encryption_certificate": "bank cert", <- base 64 encoded bank certificate
